@@ -36,22 +36,22 @@ int main(){
     //       int c = a * b;
     //        cout << "Sum nuburs = " << c << endl;
     //Ділення
-//        setlocale(0,"");
-//        int a, b;
-//        cout << "Enter first number: ";
-//         cin >> a;
-//          cout << "Enter second number: ";
-//           cin >> b;
-//           int c = a / b;
-//            cout << "Sum nuburs = " << c << endl;
+    //        setlocale(0,"");
+    //        int a, b;
+    //        cout << "Enter first number: ";
+    //         cin >> a;
+    //          cout << "Enter second number: ";
+    //           cin >> b;
+    //           int c = a / b;
+    //            cout << "Sum nuburs = " << c << endl;
     //Віднімання
-      setlocale(0,"");
-      int a, b;
-     cout << "Enter first number: ";
-       cin >> a;
-        cout << "Enter second number: ";
-         cin >> b;
-         int c = a - b;
-        cout << "Sum nuburs = " << c << endl;
+    //    setlocale(0,"");
+    //    int a, b;
+    //    cout << "Enter first number: ";
+    //    cin >> a;
+    //    cout << "Enter second number: ";
+    //    cin >> b;
+    //    int c = a - b;
+    //    cout << "Sum nuburs = " << c << endl;
     return 0;
 }
