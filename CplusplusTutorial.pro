@@ -4,10 +4,6 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    as.cpp \
     math.cpp
 
-HEADERS += \
-    plus.h \
-    plusnumber.h \
-    number.h
+HEADERS +=
