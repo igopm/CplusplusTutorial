@@ -1,10 +1,8 @@
 #include <iostream>
-#include <plus.h>
 #include <math.cpp>
 using namespace std;
 
 int main(){
-
     setlocale(0,"");
     int a, b;
     cout << "Enter first number: ";
