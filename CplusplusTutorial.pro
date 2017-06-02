@@ -5,6 +5,7 @@ CONFIG -= qt
 
 SOURCES += main.cpp \
     math.cpp \
-    branch.cpp
+    branch.cpp \
+    arr.cpp
 
 HEADERS +=
